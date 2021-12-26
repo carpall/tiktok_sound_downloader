@@ -1,3 +1,5 @@
+dependencies: `pip install requests`
+
 # how to use
 
 LAUCH THE PROGRAM
