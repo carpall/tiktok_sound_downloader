@@ -2,7 +2,7 @@ dependencies: `pip install requests`
 
 # how to use
 
-LAUCH THE PROGRAM
+LAUNCH THE PROGRAM
 
 ## file (option f)
 this option is used to donweload a list of sounds, from a file
